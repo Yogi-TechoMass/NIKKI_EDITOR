@@ -1,0 +1,5 @@
+{
+  "name": "EDITOR NIKKI",
+  "description": "A powerful AI image editing application powered by Gemini 2.5 Flash Image (Nano Banana). Upload an image and use natural language text prompts to transform it.",
+  "requestFramePermissions": []
+}
